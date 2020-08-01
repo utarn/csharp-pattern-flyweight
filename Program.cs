@@ -6,7 +6,11 @@ namespace pattern_flyweight
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var factory = new PointIconFactory();
+            var service = new PointService(factory);
+            foreach (var point in service.GetPoints()) {
+                point.Draw();
+            }
         }
     }
 }

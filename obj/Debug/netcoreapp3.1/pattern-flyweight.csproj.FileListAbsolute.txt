@@ -1,0 +1,13 @@
+C:\projects\pattern-flyweight\bin\Debug\netcoreapp3.1\pattern-flyweight.exe
+C:\projects\pattern-flyweight\bin\Debug\netcoreapp3.1\pattern-flyweight.deps.json
+C:\projects\pattern-flyweight\bin\Debug\netcoreapp3.1\pattern-flyweight.runtimeconfig.json
+C:\projects\pattern-flyweight\bin\Debug\netcoreapp3.1\pattern-flyweight.runtimeconfig.dev.json
+C:\projects\pattern-flyweight\bin\Debug\netcoreapp3.1\pattern-flyweight.dll
+C:\projects\pattern-flyweight\bin\Debug\netcoreapp3.1\pattern-flyweight.pdb
+C:\projects\pattern-flyweight\obj\Debug\netcoreapp3.1\pattern-flyweight.csprojAssemblyReference.cache
+C:\projects\pattern-flyweight\obj\Debug\netcoreapp3.1\pattern-flyweight.AssemblyInfoInputs.cache
+C:\projects\pattern-flyweight\obj\Debug\netcoreapp3.1\pattern-flyweight.AssemblyInfo.cs
+C:\projects\pattern-flyweight\obj\Debug\netcoreapp3.1\pattern-flyweight.csproj.CoreCompileInputs.cache
+C:\projects\pattern-flyweight\obj\Debug\netcoreapp3.1\pattern-flyweight.dll
+C:\projects\pattern-flyweight\obj\Debug\netcoreapp3.1\pattern-flyweight.pdb
+C:\projects\pattern-flyweight\obj\Debug\netcoreapp3.1\pattern-flyweight.genruntimeconfig.cache

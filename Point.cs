@@ -2,17 +2,19 @@ namespace pattern_flyweight
 {
     public class Point
     {
-        private int x;
-        private int y;
-        private IconType type;
-        private byte[] icon;
-
-        public Point(int x, int y, IconType type, byte[] icon)
+        private int x;  // 4 bytes
+        private int y;  // 4 bytes     
+        private PointIcon icon;
+        public Point(int x, int y, PointIcon icon)
         {
             this.x = x;
             this.y = y;
-            this.type = type;
             this.icon = icon;
+        }
+
+        public void Draw()
+        {
+            System.Console.WriteLine($"{icon.type} at ({x}, {y})");
         }
     }
 }
